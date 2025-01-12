@@ -8,6 +8,7 @@ edad = input("Ingresa tu edad: ")
 #  Esta función toma uno o más argumentos y los muestra en la consola.
 
 # Podemos utilizar la f-string (formateo de cadenas) para incrustar variables
+# j
 #  directamente dentro de una cadena de texto.Hola, " + nombre + "!")
 print("Tienes " + edad + " años.")
 
